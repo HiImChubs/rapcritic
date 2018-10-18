@@ -38,7 +38,7 @@ main {
 }
 
 footer {
-  	background-color:  #5d37c4;
+  	background-color:  #d12929;
     color: #fff;
     margin-top: 20px;
 }
@@ -56,13 +56,13 @@ aside {
 }
 
 .container {
-      border:5px solid #9ec437;
+      border:5px solid #d12929;
       background:#eee;
       margin-bottom: 10px;
     }
 
     .containert {
-          border:5px solid #9ec437;
+          border:5px solid #d12929;
           margin-bottom: 10px;
         }
 
@@ -79,13 +79,13 @@ p{
 
 h1 {
   font-family: 'Oswald', sans-serif;
-  color: #9ec437;
+  color: #d12929;
 
 
 }
 
 h2 {
-  background-color:    #9ec437;
+  background-color:    #d12929;
   color: #fff;
   text-align: center;
   font-family: 'Oswald', sans-serif;
@@ -166,22 +166,22 @@ table{
 }
 
 tr {
- border: 2px solid #5d37c4;
+ border: 2px solid #9598A4;
 
 }
 
 th {
   color: #fff;
-  background-color: #9ec437;
+  background-color: #d12929;
   font-family: 'Oswald', sans-serif;
   font-size: 19px;
   text-shadow: 2px 2px 0px #000000;
   }
 
 td {
-  border: 2px solid #5d37c4;
+  border: 2px solid #9598A4;
   padding:2px;
-  background-color: #bf9cfa;
+  background-color: #ff8080;
   color: #000;
 }
 
@@ -199,7 +199,7 @@ td {
 
 .border{
   border: 2px solid  #000;
-  background-color:  #9f7bf8;
+  background-color:  #485381;
 
 }
 
@@ -280,13 +280,13 @@ a:visited {
 
 a:hover {
   color:#fff;
-  background-color: #7f59e6 ;
+  background-color: #9598A4 ;
 
 }
 
 a:active {
   color:#fff;
-  background-color: #7f59e6 ;
+  background-color: #9598A4 ;
 
 }
 
@@ -347,7 +347,7 @@ margin-top: 20px;
 =======================================*/
 form{
   border: 2px solid  #000;
-  background-color:  #9f7bf8;
+  background-color:  #485381;
   font-family: 'Oswald', sans-serif;
   font-size: 25px;
 }
@@ -398,7 +398,7 @@ input[type=submit]:hover {
 
 /*navbar*/
 .navbar{
-  background-color: #5d37c4;
+  background-color: #485381;
 }
 
 .navbar-brand{
@@ -410,7 +410,7 @@ input[type=submit]:hover {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   text-decoration: none;
-  background-color: #7f59e6 ;
+  background-color: #485381;
   border: 2px solid #fff;
 }
 
@@ -427,7 +427,7 @@ input[type=submit]:hover {
    padding-left: 22px;
    font-family: 'Oswald', sans-serif;
    font-size: 25px;
-   border: 2px solid #5d37c4;
+   border: 2px solid #485381;
    padding-right: 22px;
 }
 
@@ -435,7 +435,7 @@ input[type=submit]:hover {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   text-decoration: none;
-  background-color: #7f59e6 ;
+  background-color: #ce7373 ;
   border: 2px solid #fff;
 }
 
@@ -444,5 +444,5 @@ input[type=submit]:hover {
    padding-left: 22px;
    font-family: 'Oswald', sans-serif;
    font-size: 25px;
-   border: 2px solid #5d37c4;
+   border: 2px solid #485381;
 }
